@@ -1,1 +1,1 @@
-alert("Hello IT");
+alert("Hello IT Specialist");
